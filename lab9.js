@@ -5,4 +5,4 @@ var randomEmail = function(domain){
 }
     var inputDomain = "gmail.com";
     var emailAdd = randomEmail(inputDomain);
-    console.log("email:   "+ emailAdd);
+    console.log("emailhdhcdhcvhdvvsdhdvhdv:   "+ emailAdd);
