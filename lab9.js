@@ -37,6 +37,8 @@ const data =
     }
 ];
 
+phá cde
+
 //b1
 var tongnv=function(data){
     var count=data.length;
